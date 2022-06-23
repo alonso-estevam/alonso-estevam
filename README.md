@@ -34,7 +34,7 @@
 
 ### 📭Socials
 
-<p align="left"> <a href="https://github.com/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="32" height="32" /></a><a href="https://www.codewars.com/users/alonso-estevam"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
+<p align="left"> <a href="https://github.com/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.codewars.com/users/alonso-estevam"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
   </p>
 
 
