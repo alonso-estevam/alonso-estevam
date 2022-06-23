@@ -34,14 +34,16 @@
 
 ### 📭Socials
 
-<p align="left"> <a href="https://www.github.com/https://github.com/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://github.com/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.codewars.com/users/alonso-estevam"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
+  </p>
+
 
 ### Badges
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://github.com/alonso-estevam"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/alonso-estevam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/alonso-estevam's GitHub stats" /></a>
+<a href="http://www.github.com/alonso-estevam"><img src="https://github-readme-stats.vercel.app/api?username=alonso-estevam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alonso-estevam's GitHub stats" /></a>
 
-<a href="https://github.com/https://github.com/alonso-estevam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/alonso-estevam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/alonso-estevam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonso-estevam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <img align="center" alt="Let's code" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47p7je78djokwpum3ie304yp3w83fkw8vpvb301raa&rid=giphy.gif&ct=g">
