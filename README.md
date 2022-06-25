@@ -1,6 +1,3 @@
-<img align="center" alt="bright little squares" width="500" src="https://media3.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/200w.webp?cid=ecf05e47gse3ogclr7ksi9q57sbpdb2fx1zipdx9b5webaw4&rid=200w.webp&ct=g">
-
-
 # &#60; Hello world! /&#62; 👋
 ## My name is Alonso Estevam 😃
 ------------------
