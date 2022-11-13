@@ -1,42 +1,34 @@
-# &#60; Hello world! /&#62; 👋
-## My name is Alonso Estevam 😃
-------------------
-### About me
-
-<p>I have a degree in Social Sciences and a master's degree in Social Anthropology. I'm especially good at listening and working with empathy.</p>
-
-<p>I've been a freelancer proofreading for over 5 years. Currently, I'm migrating to the Web Development area, and my goal is to work as a Web Dev Full Stack.</p>
-------------------------------------------------------------------------
-
-* 🌍  I'm from Pacatuba, CE, Brazil, but nowadays I'm based in Porto Alegre, RS, Brazil
-* 🏳️‍🌈   I'm a trans person, my pronouns are <em> he</em> and <em>him</em>
-* 🌱  I'm currently majoring in Systems Analysis and Development
-* ☀️ I love sunshine, ride a bike and pretend I know how to play guitar
-
-
-
-### 🔧🔨Tools 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-
-
-### 📭Socials
-
-<p align="left"> <a href="https://github.com/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.codewars.com/users/alonso-estevam"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"></a>
+<div align="center">
+  <h1>Hey there! Welcome to my github profile! &nbsp; <img src="https://media.giphy.com/media/1gRsJSbmejU9pxsfd0/giphy.gif" width="150"/> </h1>
+</div>
+<h3 align="center">📭 &nbsp; How to reach me</h3>
+  <p align="center"> <a href="https://www.linkedin.com/in/alonso-estevam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="mailto:alonso_estevam@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> <a/>
   </p>
 
+### 👨🏾‍💻 &nbsp; About me
 
-### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/alonso-estevam"><img src="https://github-readme-stats.vercel.app/api?username=alonso-estevam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alonso-estevam's GitHub stats" /></a>
-
-<a href="https://github.com/alonso-estevam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonso-estevam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>I'm the same age as javascript and in my writings I can be as verbose as Java (blame my background in Anthropology for that (anthropologist fellows, I'm just kidding)). But when it comes to talking, I see myself like Python: a straightforward syntax and easy to deal with.</p>
+<p>I'm from Pacatuba, CE, Brazil, but nowadays I'm based in Porto Alegre, RS, Brazil. I'm an intern full-stack developer at <a href="https://prefeitura.poa.br/procempa">Procempa</a>, a public information and communication technology company in the city of Porto Alegre. In my internship, I've been involved in software analysis, research and development activities. I'm currently majoring in Systems Analysis and Development and interested in the backend side of the force.</p>
+<p> Oh, and last but definitively not least, I'm a trans person, my pronouns are <em> he</em> and <em>him</em>. </p>
 
 
-<img align="center" alt="Let's code" width="300" src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47p7je78djokwpum3ie304yp3w83fkw8vpvb301raa&rid=giphy.gif&ct=g">
+### 🛠 &nbsp; Languages and Tools
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</p>  
+
+
+### 🔥 &nbsp; My GitHub Stats
+<div align="left">
+     <img height="150em" src=https://github-readme-stats.vercel.app/api?username=alonso-estevam&theme=slateorange&show_icons=true/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonso-estevam&theme=slateorange&hide_border=false&&layout=compact"/>
+  </a>
+</div>
