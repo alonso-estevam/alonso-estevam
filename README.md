@@ -8,7 +8,6 @@
 
 ### 👨🏾‍💻 &nbsp; About me
 
-<p>I'm the same age as javascript and in my writings I can be as verbose as Java (blame my background in Anthropology for that (anthropologist fellows, I'm just kidding)). But when it comes to talking, I see myself like Python: a straightforward syntax and easy to deal with.</p>
 <p>I'm from Pacatuba, CE, Brazil, but nowadays I'm based in Porto Alegre, RS, Brazil. I'm an intern full-stack developer at <a href="https://prefeitura.poa.br/procempa">Procempa</a>, a public information and communication technology company in the city of Porto Alegre. In my internship, I've been involved in software analysis, research and development activities. I'm currently majoring in Systems Analysis and Development and interested in the backend side of the force.</p>
 <p> Oh, and last but definitively not least, I'm a trans person, my pronouns are <em> he</em> and <em>him</em>. </p>
 
