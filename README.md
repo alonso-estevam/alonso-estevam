@@ -9,7 +9,7 @@
 ### 👨🏾‍💻 &nbsp; About me
 
 <p>I'm from Pacatuba, CE, Brazil, but nowadays I'm based in Porto Alegre, RS, Brazil. I'm an intern full-stack developer at <a href="https://prefeitura.poa.br/procempa">Procempa</a>, a public information and communication technology company in the city of Porto Alegre. In my internship, I've been involved in software analysis, research and development activities. I'm currently majoring in Systems Analysis and Development and interested in the backend side of the force.</p>
-<p> Oh, and last but definitively not least, I'm a trans person, my pronouns are <em> he</em> and <em>him</em>. </p>
+<p> Oh, and last but not least, I'm a trans person, my pronouns are <em> he</em> and <em>him</em>. </p>
 
 
 ### 🛠 &nbsp; Languages and Tools
@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL alt="PostgreSQL width="40" height="40"/>&nbsp;
 </p>  
 
 
