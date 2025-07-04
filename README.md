@@ -8,7 +8,7 @@
 
 ### 👨🏾‍💻 &nbsp; About me
 
-<p>I'm from Pacatuba, CE, Brazil, but nowadays I'm based in Porto Alegre, RS, Brazil. I'm an intern full stack developer at <a href="https://zallpy.com">Zallpy</a> and there I've been learning about databases, Docker, React, Java and Spring Boot. I'm currently majoring in Computer Science and Educational Robotics (Teaching Degree) and interested in the back-end side of the force.</p>
+<p>I'm from Pacatuba, CE, Brazil, but nowadays I'm based in Porto Alegre, RS, Brazil. I'm a java back-end developer at <a href="https://zallpy.com">Zallpy</a> and there I've been learning about databases, Docker, React, Java and Spring Boot. I'm currently majoring in Computer Science and Educational Robotics (Teaching Degree) and interested in the back-end side of the force.</p>
 
 
 ### 🛠 &nbsp; Languages and Tools
